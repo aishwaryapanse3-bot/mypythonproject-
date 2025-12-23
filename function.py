@@ -3,4 +3,7 @@ def check_odd_even():
     print(check_odd_even(num))
     print("Function execution completed")
     print("program finished")
-
+    print("12345")
+    print("Function execution completed")
+    print("program finished")
+    print("12345")

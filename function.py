@@ -3,3 +3,4 @@ def check_odd_even():
     print(check_odd_even(num))
     print("Function execution completed")
 
+print("Hello World")

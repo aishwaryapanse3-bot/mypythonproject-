@@ -3,6 +3,10 @@ departments =[
     {
     id: 101,
     "name" :"IT"
+    }
+    {
+    id: 104,
+    "name" :"Finance"
 },
    {
     id: 102,
@@ -12,4 +16,16 @@ departments =[
     id: 103,
     "name" :"Accounts"
 }
+]
+
+
+employees =[
+    {
+        id:1011,
+        "name":"Karan"
+    },
+    {
+        id:1012,
+        "name":"Arjun"
+    },
 ]
